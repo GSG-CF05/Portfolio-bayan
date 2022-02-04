@@ -1,5 +1,5 @@
 # Portfolio-bayan
-## You can check it out [HERE](https://gsg-cf05.github.io/Portfolio-bayan/#contact)
+## You can check it out [HERE](https://gsg-cf05.github.io/Portfolio-bayan/)
 
 ---
 ## who did this website?
